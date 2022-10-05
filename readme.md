@@ -1,9 +1,10 @@
 # 开源 Django 学生管理前后端分离 Vue +  Django + MySQL DEMO 01  CRUD
 ## 0 联系方式
-作者支持定制
-QQ: 3397640089 (备注：github来的)
-QQ: 1693353672 (备注：github来的)
-B站 更多作品展示: https://space.bilibili.com/1583208775/
+作者支持定制各种算法、深度神经网络、机器学习、大数据、擅长技术 ：Vue.js 、python (flask/django)、 java (springboot) 等
+
+- QQ: 3397640089 (备注：github来的)
+- QQ: 1693353672 (备注：github来的)B站
+- 更多作品展示: https://space.bilibili.com/1583208775/
 ## 1 功能介绍
 
 主要实现了登录、注册用户管理以及学生信息的CRUD，是一个使用vue + django + mysql实现的前后端分离的样例程序， 开源的地址评论区给出。
